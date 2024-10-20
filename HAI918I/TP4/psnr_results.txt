@@ -1,0 +1,201 @@
+Image, PSNR
+image_0_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1004_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1009_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_100_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1013_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1016_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1017_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1019_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1023_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1024_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1025_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1027_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1029_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1030_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1031_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1032_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1035_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1037_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1038_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_103_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1041_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1042_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1044_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1045_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1047_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1048_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1049_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_104_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1051_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1053_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1063_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1064_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1066_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_106_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1070_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1071_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1072_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1074_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1079_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1080_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1084_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1085_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1088_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_108_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1090_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1091_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1093_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1097_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1098_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1099_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_109_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1101_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1106_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1108_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1110_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1112_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1113_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1118_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_111_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1124_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1125_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1126_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1128_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1131_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1132_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1133_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1135_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1139_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_113_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1140_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1142_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1144_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1146_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1147_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1150_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1154_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1155_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1159_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_115_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1160_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1161_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1175_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1176_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1177_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_117_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1181_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1182_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1183_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1184_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1188_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1191_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1192_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1194_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1196_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1197_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_11_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1200_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1203_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1204_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 
+image_1210_frog.pgm, 
+Erreur de lecture de l'image image_moyenne_classe1.pgm 

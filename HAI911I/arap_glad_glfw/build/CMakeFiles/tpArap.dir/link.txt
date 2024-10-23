@@ -1,0 +1,1 @@
+/usr/bin/c++  -w -rdynamic CMakeFiles/tpArap.dir/gmini.cpp.o CMakeFiles/tpArap.dir/src/Camera.cpp.o CMakeFiles/tpArap.dir/src/Mesh.cpp.o CMakeFiles/tpArap.dir/src/Trackball.cpp.o -o tpArap  extern/glad/libglad.a extern/glfw/src/libglfw3.a -ldl -Wl,-Bstatic -lrt -Wl,-Bdynamic -lm -ldl -lX11 
